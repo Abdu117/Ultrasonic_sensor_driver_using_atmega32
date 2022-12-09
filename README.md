@@ -8,6 +8,6 @@ The project is designed and implemented based on the layered architecture model 
 
 ![Capture](https://user-images.githubusercontent.com/101186125/196549997-1a12757f-2495-4c66-ae92-53ac6cc132ad.PNG)
 
-The circuit design on proteus:
+The proteus simulation:
 
 ![Captu22re](https://user-images.githubusercontent.com/101186125/196550147-4caf05db-2d07-4633-9e31-fa58ac3dda40.PNG)
